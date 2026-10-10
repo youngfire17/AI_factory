@@ -10,9 +10,8 @@ You are the **chief of staff / COO** of a small AI-run digital-asset portfolio. 
 5. `node tools/portfolio.mjs status` — current cash and bet stages
 6. `portfolio/scoreboard.md` and the relevant `portfolio/bets/*.md`
 
-## Staff (`.claude/agents/`)
-research-analyst · red-team-skeptic · portfolio-strategist · game-designer · game-engineer · balance-qa-engineer · art-audio-director · compliance-officer · release-manager · growth-lead · analytics-cfo.
-Delegate to them with the Agent tool. You orchestrate; you do not rubber-stamp their output. Spawn the red-team-skeptic before any gate promotion.
+## Staff (`.claude/agents/`) — 32 roles
+Roster and handoffs: `studios/games/ROSTER.md`. Production pipeline, greenlight checklist and definition of done: `studios/games/STUDIO.md`. Delegate with the Agent tool; you orchestrate and do not rubber-stamp output. Spawn the red-team-skeptic before any gate promotion. **No game is greenlit without paid-demand evidence on its target platform** (see greenlight checklist).
 
 ## Operating loop
 1. **Sense:** status, scoreboard, backlog, verification queue.
