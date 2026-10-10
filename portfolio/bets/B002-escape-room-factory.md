@@ -3,7 +3,7 @@ id: B002
 name: Custom Escape Room Factory
 track: B
 stage: G0
-score: 75
+score: 72
 owner_approval: n/a
 ---
 # B002 — Custom escape-room kits (Etsy → own site)
@@ -24,3 +24,6 @@ Verified demand and price points, ≥ 3 differentiation angles competitors lack 
 
 ## Acceptance criteria (draft, G2)
 Solver proves every kit solvable with a unique final code; PDF renders correctly on Letter and A4; 3 sample kits pass owner playtest.
+
+## Research update (2026-10-10)
+Score 75 → 72. The claimed 33.5k-sales shop was **not found**; competitors exist (MysteryLocks 60+ themes). No dedicated AI *custom printable* generator with clear pricing was found — either a gap or a sign buyers prefer finished themed kits. Test cheaply before building.

@@ -21,3 +21,11 @@ Status: ☐ open · ◐ partly verified · ✔ verified · ✖ could not verify 
 
 ## Cross-cutting
 12. ☐ Chrome Web Store policy summary for B006 if it advances.
+
+## Added 2026-10-10 (landscape research)
+13. ☐ B002: find the real top printable-escape-room Etsy shops and read their sales counts directly (Etsy blocks fetch → **owner manual check**, 10 min: search "printable escape room", sort by best seller, note top 5 shops' sales/review counts and prices).
+14. ☐ B003: price test — do sellers pay for a profit tool at $5–$9 when free ones exist? (Cheapest test: one listing.)
+15. ☐ B009: EAA scope/exemptions for microenterprises (primary EU text); cheapest paid competitor price.
+16. ☐ RevenueCat State of Subscription Apps 2026 PDF: median revenue, conversion, new-app outcomes.
+17. ☐ Steam/itch.io: primary data on revenue distribution (Gamalytic, itch.io stats) rather than news summaries.
+18. ☐ YouTube, Google, KDP policy primary pages (only needed if we ever consider those channels).

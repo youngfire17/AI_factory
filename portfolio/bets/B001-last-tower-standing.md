@@ -3,7 +3,7 @@ id: B001
 name: Last Tower Standing
 track: A
 stage: G2
-score: 63
+score: 60
 owner_approval: pending-playtest
 ---
 # B001 — Last Tower Standing (idle tower defense)
@@ -32,3 +32,6 @@ owner_approval: pending-playtest
 
 ## Kill criteria
 Owner finds it unfun after tuning round 2, or soft-launch metrics < 25% of thresholds after 30 days.
+
+## Research update (2026-10-10)
+Score revised 63 → 60. Steam median ≈ $249–$1.7k; itch.io browser games mostly earn tips [claimed]. Genre has money only at the top. Keep as **engine proof**, do not lead the portfolio with it. See `labs/market-research/briefs/2026-10-10-landscape-research.md`.

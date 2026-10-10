@@ -3,7 +3,7 @@ id: B003
 name: Etsy Seller Profit OS
 track: B
 stage: G0
-score: 80
+score: 74
 owner_approval: n/a
 ---
 # B003 — Etsy Seller Profit OS
@@ -21,3 +21,6 @@ Exact current Etsy CSV export formats and fee schedule (verify against Etsy's ow
 
 ## Acceptance criteria (draft, G2)
 Parses real-format fixture CSVs; fee math matches Etsy's published fees to the cent on test cases; works offline; no data leaves the browser.
+
+## Research update (2026-10-10)
+Score 80 → 74. Free/cheap competition is heavy: Craftybase free spreadsheets, ZIK free fee calculator, Etsy templates ~$3–$10, ProfitTree free/~$5.99 mo. **$9–$19 pricing looks too high.** Reviews say eRank/Marmalead do not do profit tracking (possible gap). Low ceiling: treat as a fast, cheap demand test, not a business.
