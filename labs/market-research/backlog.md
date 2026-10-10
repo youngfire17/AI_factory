@@ -9,8 +9,8 @@ Scores are **preliminary**; evidence on every row is [claimed] (from the source 
 | 3 | B007 AI Command Center | 3 | 3 | 3 | 4 | 3 | 3 | 4 | 4 | **66** | weak differentiation; ToS/data-access risk |
 | 4 | B009 Accessibility checker | 3 | 2 | 3 | 4 | 4 | 4 | 4 | 3 | **65** | borderline; forced-buyer demand, crowded |
 | 5 | B006 Search Control extension | 3 | 2 | 2 | 5 | 4 | 3 | 4 | 3 | **62** | below G1; 57% of extensions earn $0 |
-| 6 | B004 Strawberry Empire | 2 | 2 | 1 | 5 | 3 | 4 | 5 | 4 | **58** | after B001 |
-| 7 | B001 Last Tower Standing | 2 | 2 | 1 | 5 | 3 | 4 | 5 | 4 | **60** | engine proof only; Steam median ≈ $249–$1.7k |
+| 6 | B001 Last Tower Standing | 2 | 2 | 1 | 5 | 3 | 4 | 5 | 4 | **60** | engine proof only; Steam median ≈ $249–$1.7k |
+| 7 | B004 Strawberry Empire | 2 | 2 | 1 | 5 | 3 | 4 | 5 | 4 | **58** | after B001 |
 | 8 | B008 Roblox tycoon | 1 | 4 | 2 | 3 | 2 | 4 | 3 | 3 | **54** | Phase 3 |
 | 9 | B005 Poker/solitaire roguelike | 1 | 2 | 2 | 4 | 3 | 3 | 4 | 3 | **52** | revisit later |
 

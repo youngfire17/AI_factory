@@ -3,7 +3,7 @@ id: B004
 name: Strawberry Empire (farm-to-global idle tycoon)
 track: A
 stage: G0
-score: 62
+score: 58
 owner_approval: n/a
 ---
 # B004 — Strawberry Empire
