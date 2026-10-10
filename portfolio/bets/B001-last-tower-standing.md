@@ -41,3 +41,6 @@ Becomes **experiment X2** (idle/roguelite TD: genre score 20/30). Needs: a diffe
 
 ## PARKED 2026-10-10
 Created before research and outside the owner's intent. Parked; no further work unless the owner revives games. The code remains as a reference only.
+
+## Revived as game #1 of B013 (2026-10-10)
+The owner wants many games tested. Existing prototype becomes game #1 of the portfolio; needs differentiator, audio, polish, telemetry before it ships.

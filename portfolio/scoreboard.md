@@ -6,13 +6,13 @@ _Maintained by analytics-cfo. Run `node tools/portfolio.mjs status` for live num
 |---|---:|---:|---:|---:|
 | 2026-10-10 | $500.00 | $250 | $250.00 | $0.00 |
 
-## Active bets (v2, 2026-10-10)
+## Active bets (v3, 2026-10-10): Wave 1 proposed, awaiting owner go-ahead
 | Bet | Stage | Next action | Owner needed? |
 |---|---|---|---|
-| B011 Trades missed-call recovery (cash engine) | G0 | Customer discovery: 15–20 conversations; verify 10DLC; lawyer read of text wording | Yes — conversations (light contact) |
-| Digital micro-bets (workbook, extension, readiness checklist) | G0 | Etsy dated-review search task; pick ≤ 3 tests | Yes — 20 Etsy searches (~1 h) |
-| Acquisitions watch | G0 | Track 20 Flippa listings weekly for 4 weeks | No |
-| B001/B004/B010 (games) | parked / retired | none | — |
+| B002 Party Games Shop (Etsy) | G0 → G2 on approval | Build kit #1; Christmas/NYE SKUs live ~Oct 24 | Yes: open Etsy shop, publish |
+| B012 Niche workbooks | G0 | 20 Etsy searches → pick 3 niches | Yes: ~1 h of searches |
+| B013 Games portfolio (incl. B001 as #1) | G0 | Ship game #1 to itch.io; CrazyGames Basic | Yes: itch.io account, submissions |
+| B011 Trades service (optional cash engine) | G0 | Customer discovery when hours allow | Yes: calls |
 
 ## Recommendation
-Spend nothing yet. Run customer discovery and the $0 verification tasks first; decide the first dollar after the discovery result.
+Approve Wave 1 with a $50 batch cap and the Etsy shop/account steps. Everything else is agent work.

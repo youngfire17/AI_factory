@@ -1,6 +1,6 @@
 ---
 id: B002
-name: Custom Escape Room Factory
+name: Party Games Shop (escape rooms, murder mysteries, custom kits) on Etsy
 track: B
 stage: G0
 score: 72
@@ -27,3 +27,6 @@ Solver proves every kit solvable with a unique final code; PDF renders correctly
 
 ## Research update (2026-10-10)
 Score 75 → 72. The claimed 33.5k-sales shop was **not found**; competitors exist (MysteryLocks 60+ themes). No dedicated AI *custom printable* generator with clear pricing was found — either a gap or a sign buyers prefer finished themed kits. Test cheaply before building.
+
+## Wave 1 update (2026-10-10)
+Broadened to a party-games shop; first batch = 12 SKUs + 1 custom listing; see `charter/studio-launch-plan.md` and `labs/market-research/briefs/2026-10-10-studio-party-games.md`. Needs owner exception ($50 batch cap) to spend before G2. Kill: < 3 stranger sales and < 1% conversion on 500+ views by 2026-12-20.
