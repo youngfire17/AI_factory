@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="data:,">
+<title>Last Tower Standing</title>
+<style>
+  :root { --bg:#0b1020; --panel:#141b33; --line:#26325c; --text:#e8ecff; --dim:#8b97c7; --accent:#6ee7b7; --warn:#fbbf24; --bad:#f87171; }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--text); font:14px/1.4 system-ui,sans-serif; display:flex; justify-content:center; }
+  main { width:100%; max-width:960px; padding:12px 16px; display:grid; gap:12px; }
+  header { display:flex; justify-content:space-between; align-items:baseline; flex-wrap:wrap; gap:8px; }
+  h1 { font-size:18px; margin:0; letter-spacing:.04em; }
+  .stats { display:flex; gap:16px; color:var(--dim); flex-wrap:wrap; }
+  .stats b { color:var(--text); font-variant-numeric:tabular-nums; }
+  .stage { display:grid; grid-template-columns: minmax(0,1fr) 280px; gap:12px; }
+  @media (max-width:760px) { .stage { grid-template-columns: 1fr; } }
+  canvas { width:100%; aspect-ratio:1; background:radial-gradient(circle at center,#121a36,#090d1c); border:1px solid var(--line); border-radius:8px; }
+  .panel { background:var(--panel); border:1px solid var(--line); border-radius:8px; padding:10px; display:grid; gap:6px; align-content:start; }
+  .panel h2 { font-size:12px; margin:0 0 2px; text-transform:uppercase; letter-spacing:.08em; color:var(--dim); }
+  button { background:#1b2547; color:var(--text); border:1px solid var(--line); border-radius:6px; padding:8px 10px; font:inherit; cursor:pointer; display:flex; justify-content:space-between; gap:8px; text-align:left; }
+  button:hover:not(:disabled) { border-color:var(--accent); }
+  button:disabled { opacity:.45; cursor:not-allowed; }
+  button small { color:var(--dim); }
+  .bar { height:10px; background:#0e1430; border-radius:5px; overflow:hidden; border:1px solid var(--line); }
+  .bar > i { display:block; height:100%; background:var(--accent); width:100%; transition:width .1s; }
+  .row { display:flex; gap:8px; }
+  .row button { flex:1; justify-content:center; }
+  .overlay { position:fixed; inset:0; background:rgba(5,8,18,.82); display:none; align-items:center; justify-content:center; padding:16px; }
+  .overlay.show { display:flex; }
+  .card { background:var(--panel); border:1px solid var(--line); border-radius:10px; padding:16px; max-width:420px; width:100%; display:grid; gap:10px; }
+  .card h2 { margin:0; font-size:20px; }
+  .muted { color:var(--dim); }
+  .primary { background:var(--accent); color:#06281b; border-color:var(--accent); justify-content:center; font-weight:600; }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <h1>LAST TOWER STANDING</h1>
+    <div class="stats">
+      <span>Wave <b id="wave">1</b></span>
+      <span>Coins <b id="coins">0</b></span>
+      <span>Best <b id="best">0</b></span>
+      <span>Research <b id="points">0</b></span>
+    </div>
+  </header>
+  <div class="stage">
+    <canvas id="view" width="560" height="560" aria-label="Battlefield"></canvas>
+    <div class="panel">
+      <h2>Tower</h2>
+      <div class="bar" title="Hull"><i id="hp"></i></div>
+      <div class="row" id="speeds"></div>
+      <h2>Upgrades (this run)</h2>
+      <div id="shop" style="display:grid;gap:6px"></div>
+    </div>
+  </div>
+</main>
+<div class="overlay show" id="overlay">
+  <div class="card" id="card"></div>
+</div>
+<script type="module" src="src/main.js"></script>
+</body>
+</html>
