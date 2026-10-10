@@ -2,10 +2,12 @@
 
 **Goal:** build a portfolio of digital assets that generates real revenue, run mostly by AI staff, with the owner (Justin) providing oversight, account ownership, and final testing.
 
-## Hard constraints (from the owner)
-- Starting capital: **$500**. Reinvest proceeds; do not withdraw early profit.
-- Minimal human labor. Owner's role: approve gates, own the accounts/payouts, final-test builds, make the call on anything irreversible.
-- No employees, no inventory, no cold outreach to strangers.
+## Hard constraints (from the owner; updated 2026-10-10)
+- **Goal:** a revenue-generating portfolio of real assets of ANY type that compounds: buy/build an asset, it produces cash, reinvest into the next. (The "strawberry truck" idea was the vibe of this loop in real life, not a game concept.)
+- Starting capital: **$500**; **reinvest all early profit**, and capital may be added over time (from profits first; outside top-ups to be discussed).
+- Time: **1–2 hours/day**. Light human contact is **OK** (calls/emails/messages). Manual one-to-one outreach is OK; no autodialers, no automated cold texting.
+- No employees. No existing audience, skills, tools, or business. AI agents do most of the work.
+- Owner's role: approve gates, own the accounts/payouts, test, and make the call on anything irreversible.
 - Prefer assets that compound: things we still own and can improve after launch.
 
 ## What "success" means (in order)

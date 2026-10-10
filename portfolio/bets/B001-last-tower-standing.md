@@ -38,3 +38,6 @@ Score revised 63 → 60. Steam median ≈ $249–$1.7k; itch.io browser games mo
 
 ## Games research update (2026-10-10)
 Becomes **experiment X2** (idle/roguelite TD: genre score 20/30). Needs: a differentiator vs the incumbent single-tower idle title (own mechanic, art, names), audio, polish, telemetry. No small-team revenue evidence found for this genre (Zero Stress King ≈ $160k [claimed] but players fell ~84% in 3 months). Score 60 → 64.
+
+## PARKED 2026-10-10
+Created before research and outside the owner's intent. Parked; no further work unless the owner revives games. The code remains as a reference only.

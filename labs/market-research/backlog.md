@@ -20,3 +20,6 @@ Scores are **preliminary**; evidence on every row is [claimed] (from the source 
 See `studios/games/STRATEGY.md`. Genre/platform priority: **X1 Strawberry Empire (B004) · X2 Last Tower Standing (B001) · X3 Daily Seed (B010)**, all as free browser experiments first. Roblox (B008) parked; mobile and Steam premium deferred; deckbuilder (B005) only after retention data.
 
 Rejected for now: cloud-mining subscriptions (e.g. MasHash: implausible returns, scam pattern); buying existing SaaS ($10k+ asks vs $500); generic planners/affiliate/AI-content sites (crowded, no differentiator, search-spam policy risk); physical TCG, vending, reselling (capital/labor).
+
+## v3 note (2026-10-10, after asset research)
+Focus moved from games to a capital ladder across all asset types. See `charter/strategy.md` and `briefs/2026-10-10-assets-synthesis.md`. New bet: **B011 trades missed-call recovery (cash engine)**, G0. Games parked; B004 retired (misread of the source).

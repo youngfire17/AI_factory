@@ -6,14 +6,13 @@ _Maintained by analytics-cfo. Run `node tools/portfolio.mjs status` for live num
 |---|---:|---:|---:|---:|
 | 2026-10-10 | $500.00 | $250 | $250.00 | $0.00 |
 
-## Active bets
+## Active bets (v2, 2026-10-10)
 | Bet | Stage | Next action | Owner needed? |
 |---|---|---|---|
-| B001 Last Tower Standing (X2) | G2 | Owner playtests 3 runs; pick differentiator vs the incumbent; polish pass | **Yes — playtest** |
-| B004 Strawberry Empire (X1) | G0 | Greenlight: teardown, monetization, clearance, then design | No |
-| B010 Daily Seed (X3) | G0 | Greenlight package | No |
-| B002 Escape Room Factory | G0 | Verify Etsy demand claims (queue #1–#3) | No |
-| B003 Etsy Profit OS | G0 | Verify competitors/prices + Etsy CSV formats (queue #4–#5) | No |
+| B011 Trades missed-call recovery (cash engine) | G0 | Customer discovery: 15–20 conversations; verify 10DLC; lawyer read of text wording | Yes — conversations (light contact) |
+| Digital micro-bets (workbook, extension, readiness checklist) | G0 | Etsy dated-review search task; pick ≤ 3 tests | Yes — 20 Etsy searches (~1 h) |
+| Acquisitions watch | G0 | Track 20 Flippa listings weekly for 4 weeks | No |
+| B001/B004/B010 (games) | parked / retired | none | — |
 
 ## Recommendation
-Do not spend anything yet. Verification is free and decides which Track B bet gets the first $25.
+Spend nothing yet. Run customer discovery and the $0 verification tasks first; decide the first dollar after the discovery result.

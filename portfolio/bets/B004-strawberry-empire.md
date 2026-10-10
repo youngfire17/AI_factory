@@ -2,8 +2,8 @@
 id: B004
 name: Strawberry Empire (farm-to-global idle tycoon)
 track: A
-stage: G0
-score: 70
+stage: RETIRED
+score: 0
 owner_approval: n/a
 ---
 # B004 — Strawberry Empire
@@ -14,3 +14,6 @@ owner_approval: n/a
 
 ## Games research update (2026-10-10)
 Promoted to **experiment X1** (idle/incremental ranked #1 of 9 genres by the genre brief; see `studios/games/STRATEGY.md`). Score 58 → 70. Web first (itch.io), Steam F2P only after G3 metrics. Note: the money evidence is one solo-dev anecdote [claimed]; the experiment exists to replace it with our own data. Differentiator to define: supply-chain/logistics decisions, not clicking.
+
+## RETIRED 2026-10-10 — misread of the source
+The "strawberry truck" in the original chat was a metaphor for the real-life invest/work/sell/reinvest loop, **not a game idea**. This bet was created in error and is withdrawn. Game strategy is parked (see `charter/strategy.md`).

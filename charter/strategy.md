@@ -1,33 +1,35 @@
-# Strategy
+# Strategy (v2, 2026-10-10)
 
-## Thesis
-Run **two tracks** that fund and inform each other, plus a lab that feeds both.
+Replaces the earlier games-first strategy. Basis: ten research briefs in `labs/market-research/briefs/` (seven asset briefs, the synthesis, the services validation, plus the games and landscape research).
 
-| Track | What | Why | Speed of signal | Ceiling |
-|---|---|---|---|---|
-| **A. Games studio** | Small, systems-driven games (idle/incremental, tower defense, card hybrids) published to browser + itch.io first, Steam for proven winners | Matches the owner's interest; AI is unusually strong at rules/economy/UI/test code; reusable engine lowers cost per game | Slow (weeks–months) | High if one game finds an audience |
-| **B. Digital products & tools** | Marketplace-distributed products (e.g. custom escape-room kits on Etsy, seller tools) | Distribution already exists (marketplace search), buyers pay real money, fast "will a stranger pay?" signal | Fast (days–weeks) | Medium, can graduate to micro-SaaS |
-| **Lab** | Market research, playtest/QA, compliance, analytics | Prevents building things nobody wants; keeps us inside platform rules | n/a | n/a |
+## Goal
+Reinvest a small starting capital into a **ladder of real, income-producing assets** of any type, using AI for most of the work, 1–2 hours/day of owner time, light human contact.
 
-Track B is the **cash-signal engine**; Track A is the **long-term asset engine**. We do not wait on A to learn about demand.
+## What the evidence says (honest)
+- **No lane has verified, repeatable compounding from $500.** No documented three-rung climb from under $2k with no audience and independent proof exists in what we found.
+- At $500 the limits are **demand and attention**, not capital. Resale tops out at ~$650/mo by time alone [assumed].
+- In a 12-month model only **labor-funded routes** have positive expected value (service-funded ≈ $1,617 ending capital; resale ≈ $925; buy-a-small-web-asset ≈ $457; all [assumed], none reaching $1k/mo net).
+- **Buying existing assets starts to be credible around $5–10k**; verification and escrow are essential; many "AI business" offers are FTC-documented fraud.
+- Games, mobile, and Roblox are weak first moves (Steam median ≈ $249–$1.7k; mobile needs paid UA). Parked, not dead.
 
-## Where I disagree with, or want to tighten, the source chat
-1. **Free browser idle games rarely make money by themselves.** Ad revenue needs large traffic; itch.io browser games mostly earn via donations/sales from a small audience. Treat Track A browser releases as *distribution experiments and engine proofs*, and aim real revenue at: paid itch.io releases, Steam ($100 fee, small premium price), or a portal/ads deal only for a proven title.
-2. **"Fully hands-off" is a direction, not a day-one state.** The owner's final testing is a deliberate gate, not a failure of automation.
-3. **A portfolio of games does not diversify attention risk.** Ten undiscovered games earn about what one does. Depth of one good game beats breadth until a winner emerges.
-4. **Mass-producing near-identical AI games is risky.** Steam's AI disclosure is [verified]; itch.io's AI tagging is [claimed] (news); the source chat's claim that itch.io restricts mass AI releases was **not found** on itch.io's creator FAQ. Our rule: each release must be distinct, curated, and owner-approved.
-5. **Roblox** is a strong long-term channel (built-in discovery) but needs Roblox Studio/Lua tooling and a different QA pipeline. It is a Phase 3 option, not a first move.
-6. **Clone risk:** the single-tower idle-defense format is dominated by an established title. Ours must differ in mechanics and presentation, and must not use its name, art, or trade dress.
-
-## Sequencing (first 30 days; see `portfolio/bets/` for each)
-| Week | Track A (games) | Track B (products) | Lab |
+## The ladder (rules in `charter/stage-gates.md`; thresholds [assumed])
+| Rung | Money | What we do | Promote when |
 |---|---|---|---|
-| 1 | B001 Last Tower Standing prototype **(done: playable, 8 sim tests)**; owner playtests | Verify escape-room demand claims (B002) before building | Verification queue #1–#6; policy check |
-| 2 | Polish loop from owner feedback; itch.io page draft | Build B002 MVP generator + 3 sample kits (if verified) | Competitor teardown for B001 |
-| 3 | Publish B001 (browser, free, optional tip); instrument | List B002 on Etsy (≤10 listings, ≤$5 fees) | Read first real metrics |
-| 4 | Gate review: continue / pivot / kill | Gate review | Retro; update backlog scores |
+| R0 Test | $0–$25 | Customer discovery and tiny demand tests; verification of claims | first stranger payment, or kill |
+| R1 Cash engine + micro-bets | ≤ $250 in total at risk; reserve $250 locked | **One cash engine (services)** plus 2–4 micro-bets (≤ $50 each) | ≥ $250 realized net over 90 days across ≥ 2 months |
+| R2 Engine | ≤ $750 | Scale what earned; add a second channel | ≥ 30 transactions at ≥ 20% net margin |
+| R3 Inventory/assets | $750–$3,000 | Reinvest into inventory/tools/placed hardware | $300/mo realized net for 3 months |
+| R4 Asset purchases | $3,000–$10,000+ | Buy verified small web/SaaS/store assets, escrow only | $1,000/mo net for 3 months + red team + owner approval |
+Reinvest everything through R3; no owner withdrawals until R3 is cleared. Benchmark to beat: 13-week T-bill 4.16% [verified 2026-10]. Hurdle: ≥ 25%/yr realized and ≥ $15/h of owner time.
+
+## Current plan
+1. **Cash engine: AI-delivered local-trades service** (missed-call recovery, review requests, Google Business Profile upkeep). Evidence is weak and the feature is commoditized, so **first run customer discovery (15–20 conversations, $0)** before building anything. Pass: ≥ 5 of 20 would pay ≥ $99/mo; ≥ 3 accept a free pilot. See `briefs/2026-10-10-services-validation.md`.
+2. **Parallel $0 verification tasks:** 20 dated-review Etsy niche searches (find payment proof); track 20 Flippa listings for 4 weeks; verify 10DLC timing/costs and get a lawyer's read on text wording.
+3. **Micro-bets (R1, ≤ $50 each, 60-day kill):** pick from the digital-product tests and a small resale test (≤ $250) only after the cash-engine discovery result.
+4. **Parked:** games (X1–X3), Roblox, mobile, rank-and-rent, MCP/skill/prompt packs, paid newsletters, turnkey AI businesses.
+
+## Time budget (7–14 h/week)
+~5 h discovery/outreach and delivery · ~2 h demand tests/verification · ~1 h weekly review with the Co-CEO. AI does research, drafting, bookkeeping, and tooling.
 
 ## Capital policy
-- Hard reserve: **never let cash fall below $250** until a bet has cleared Gate 4.
-- Spend only through `node tools/portfolio.mjs spend` so the ledger and gates are enforced.
-- Per-stage spend caps are in `stage-gates.md`.
+Hard reserve $250 until Gate 4. All spend through `node tools/portfolio.mjs spend`. Acquisitions or any single spend above stage caps need an explicit owner exception.
