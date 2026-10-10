@@ -1,0 +1,76 @@
+# Party games, escape rooms and mystery kits as a digital-product studio
+**Retrieved:** 2026-10-10. **Method:** about 22 searches and fetches. Etsy pages (shops, listings, fee page, creativity page, seller handbook) and the TpT help center returned **403** to fetch, so Etsy and TpT facts come from **search-engine snippets of the primary pages**. I tag those **[claimed-snippet]** and do not call them verified. Only these fetches succeeded: a TpT product page, the TpT seller blog (exclusivity post), and the Chalkbeat article. No Google Trends, Pinterest or Reddit threads were retrievable. "Could not verify" is stated where it applies.
+
+## 1. Findings (demand = people buy; interest is noted separately)
+| # | Finding | Tag |
+|---|---|---|
+| 1 | **Murder mystery kits have the strongest payment evidence.** Etsy shop pages (snippet; crawl dates unknown): BlueCoconutMysteries 6,758 sales, 919 reviews, since 2015; GuiltyGames 3,980 sales, 511 reviews, since 2016; MurderByPost 2.4k sales, 383 reviews, about 3 yrs; DetectiveDecipher 167 sales / 26 reviews, since 2023; TypeAMysteries 260 sales / 33 reviews, since 2024. | [claimed-snippet] |
+| 2 | **Printable escape rooms sell, but at smaller scale.** InstantEscapeGames: 772 sales, 4.8 from 72 reviews, since 2023 (snippet of page updated 2025-09-01). Escape Room Factory: 134 sales / 33 reviews. UnlocktheFunGames: 26 sales / 3 reviews, since 2024. So a 2023 entrant reached about 770 sales in about 2.5 yrs. A 2024 entrant is at 26-134. | [claimed-snippet] |
+| 3 | **Generic printable party games (bridal/baby/bachelorette) have the biggest shop volume.** WithLoveSally: about 24,992 sales since 2022. Single-game prices are low ($3-$13). | [claimed-snippet] |
+| 4 | Seller-course hype exists ("Escape Rooms Empire", $17). I found **no** independent income evidence for it or its graduates. Treat as noise. | [claimed] |
+| 5 | **TpT is big but top-heavy.** Teachers College Record note: about 4.0M resources, about 208,700 sellers, $3.9B lifetime sales, 81% of sales go to the top 1%. Median-seller income could not be verified (blog claims of "$300-$1,000/mo for active sellers" are unsourced). | [claimed] |
+| 6 | **TpT digital escape-room evidence is thin.** One Google Forms bundle (seller "Digital Escape Rooms", 598 followers): $14.40 on sale from $19.50, rated 4.8 from **5** ratings, CCSS-tagged. No download count shown. | [verified] TpT product page, retrieved 2026-10-10 |
+| 7 | **TpT AI stance:** no written AI policy found. TpT's parent IXL says it uses algorithms to "identify and demote stores associated with low-quality, AI-generated content" and that AI products are "a minuscule fraction of a percent" of sales. | [verified] via Chalkbeat 2026-08-03 (secondary reporting of a CEO statement; retrieved 2026-10-10) |
+| 8 | **TpT changed its plans on 2026-10-01.** Premium is being retired. Basic = $29 one-time, 55% payout, $0.30 per resource. New "Exclusive" = $59.95/yr, 77.5% payout (80% intro rate until 2027-01-01). **Exclusive sellers cannot sell digital educational resources anywhere else, including Etsy.** Boom Cards, courses, physical goods and non-educational digital items are exempt. | Exclusivity and 77.5%: [verified] sellerblog.teacherspayteachers.com/tpt-exclusive-seller/, 2026-10-10. Basic terms: [claimed-snippet] of the help center |
+| 9 | **Etsy AI rule:** AI-assisted digital downloads are allowed under "Designed by a seller", with AI use disclosed in the listing. Prompt bundles are banned. Seller must have a clear creative role. One third-party report says 17,000+ listings were removed in early 2025 for AI-disclosure violations. | [claimed-snippet] etsy.com/legal/creativity (403 on fetch); enforcement figure [claimed] |
+| 10 | **Etsy fees (US):** $0.20 listing (renews each 4 months or on sale), 6.5% transaction, 3% + $0.25 processing, Offsite Ads 15% (12% and mandatory once a shop passes $10k in 365 days), capped at $100 per order. Opt-out is allowed below $10k. | [claimed-snippet] help.etsy.com and seller handbook; blog calculators agree |
+| 11 | **Seasonal lead time:** sellers advise listing 6-12 weeks before a holiday (Halloween items in Jul-Aug, Christmas by early Sept, buying peaks Nov to early Dec). No Etsy data. I could not retrieve Google Trends. | [claimed] seller blogs/podcast |
+| 12 | **Custom orders exist but are rare.** One Etsy seller sells a "custom escape room" listing: buyer fills a form (occasion, players, difficulty, theme, real names, tone), delivered in **7-10 business days** as a 40-60 page PDF, personal use only. I found no listing built around an instant, hours-turnaround AI custom. Price of that listing not captured. | [claimed-snippet] |
+| 13 | **A buyer complaint pattern:** a kit that was "more like a scavenger hunt with a story" when the child expected puzzles and riddles. Previews and honest descriptions matter. | [claimed-snippet] |
+
+## 2. Price and competition by niche (prices from search snippets, mostly sale prices; none has sales data per listing)
+| Niche | Typical price | Bundle structure seen | Competition and notes |
+|---|---|---|---|
+| Kids birthday / family escape room | $6-$17 (e.g. $8.06 dino, $9.09 Easter sale, $16.12 cake-shop) | 9-12 puzzles, ages 6-8 or 8-12, 30-60 min, 4-7 players | Many shops with Star Seller badges; low review counts, so the category is **not yet saturated by giants** |
+| Teen/adult cold-case or date-night escape | $10-$25 | Cold-case bundles | Fewer listings seen |
+| Holiday escape (Easter, Christmas, Halloween) | $9-$13 | Same format, seasonal skin | Reappears every year; relist yearly |
+| Murder mystery party kit | $5-$10 single case; $25-$35 for 8-20 players; $37 for a 1920s kit; boxed kits over $120; Payhip $2.99 on sale | Character packs, host guide, invites, clues | Established shops with 2k-7k sales; 30-60 reviews is a plausible 2024 entrant level |
+| Baby/bridal shower game bundles | $3-$13 | 8-50 games per bundle | Very crowded and cheap; volume game |
+| Digital classroom escape (Google Forms) | $14-$27 bundles | Subject bundles, CCSS-tagged | Heavily supplied; TpT exclusivity rule and AI demotion apply |
+| Trivia / bingo / scavenger hunt | Not captured | | **Could not verify**; assume low price, high supply |
+
+## 3. Obstacle to solution
+| Obstacle | Solution or pivot |
+|---|---|
+| No audience, new shop ranks nowhere | Etsy search is the audience. Launch **30+ SKUs across 3 themes and 3 age bands** (long-tail titles such as "Dinosaur escape room 6-8 printable"). A free 1-page sample on Pinterest/Payhip is optional. Pinterest pins are owner-posted and free. |
+| Escape rooms are commodity; buyers fear a weak kit | Differentiate on verified quality: puzzles with a solver script that proves every code is unique and solvable [assumed AI-doable]; three difficulty tiers in one purchase; host guide with timing and hints; large preview images. |
+| Sellers with 2015-2016 shops hold the murder-mystery top spots | Enter murder mystery via a **sub-niche** (8-12 player generic "cozy", Christmas, NYE, kids 10+). Newer entrants (2023-24) already show 167-260 sales, so room exists. [claimed-snippet] |
+| Etsy AI disclosure and "seller is creative force" | Disclose AI use in every listing. The owner writes the brief, picks themes, reviews and edits each kit (documented). Never sell prompts. Pre-check wording with compliance. If Etsy suppresses a listing, pivot the same files to Payhip/Gumroad (cheap, no AI penalty found) and to a kit-of-kits on Amazon KDP only after checking KDP rules (not in this lane). |
+| IP: Harry Potter, Disney, Mario, Star Wars, branded "Hogwarts-style" | Use only original generic worlds (dino dig, bakery heist, space station, haunted library, pirate map, snow-globe mystery). Avoid trademarked names in titles and tags. TpT also requires you hold all rights (guideline page, snippet). |
+| TpT exclusivity (77.5%) blocks Etsy for classroom items | Do **not** go exclusive. Options: (a) skip TpT; (b) Basic seller ($29, 55%) only as a later test; (c) sell classroom-style items on Etsy as "home-school / family" kits; (d) Boom Cards are exempt from exclusivity (not tested). Verdict: defer TpT. |
+| TpT demotes "low-quality AI" stores; standards-alignment effort | Pivot away from standards-heavy classroom bundles; put effort where the buyer is a parent or host and no alignment is needed. |
+| Seasonality (a Christmas listing launched in December is dead) | Calendar below. Today is 2026-10-10: Christmas is 11 weeks out, so **Christmas and NYE kits are on time**; Halloween is about 3 weeks out and is probably too late. Valentine's/date-night and Easter go live Dec and Feb. |
+| Custom orders require messaging and speed | Offer one "Custom escape room" listing with an intake form. The owner relays the form to the AI pipeline and delivers within 24 h (quicker than the 7-10 day competitor). Light human contact is acceptable per owner. Etsy allows custom listings but, with AI use, disclose. Children's names: keep it personal-use, collect no child data beyond a first name. |
+| Refunds and "not what I expected" | Digital goods are non-returnable; add clear age, time, player count, print and "no screen needed" text and a puzzle sample in the preview. |
+| Etsy margin loss via Offsite Ads | Opt out while under $10k (verify in shop settings). Price at $9-$14 so the fixed $0.45 does not bite. |
+
+## 4. Unit economics (arithmetic from the fee figures above; conversion [assumed])
+| Price | Etsy fees (listing $0.20 + 6.5% + 3% + $0.25) | Net, no ad | Net if Offsite Ad (15%) |
+|---|---|---|---|
+| $9 | $1.26 | **$7.74** | $6.39 |
+| $12 | $1.55 | **$10.45** | $8.65 |
+| $15 | $1.88 | **$13.12** | $10.87 |
+| $27 bundle | $2.94 | **$24.06** | $20.01 |
+
+Sales per month for net income (average $12 price, about $10.45 net, no ads): **$100 = 10 sales; $500 = 48; $1,000 = 96.** At a 1.5% visit-to-sale conversion [assumed; the gate threshold is 1%], $500 needs about 3,200 listing visits per month, and $1,000 about 6,400. Shop benchmark: the 2023-entrant escape shop averaged about 26 sales per month over 30 months [derived from a snippet], which is roughly $270 net per month at $12, so **$100-$300/month in year one is a plausible success case, $1,000 is a top-decile outcome** [assumed]. TpT Basic: an $8 sale nets $4.40 - $0.30 = $4.10. Exclusive at 77.5% nets $6.20 but forecloses Etsy.
+**Production time [assumed]:** with an AI pipeline plus solver check plus layout, about 2-4 owner-hours for the first kit, falling to under 1 hour per skin once templated. Cost per kit is near $0 plus mockup and PDF tools. Listing fee for 30 SKUs: $6.00. Etsy may charge a one-time new-seller fee [not verified].
+
+## 5. Seasonal calendar (go-live = about 8-10 weeks before the date) [assumed from claimed seller advice]
+Christmas / NYE: **now, Oct 10-24**. Valentine's / date-night mystery: **late Nov-Dec**. Easter: **mid-Jan**. Spring birthdays and Mother's/Bridal season: **Feb-Mar**. Summer birthday/camp, rainy-day kits: **Apr-May**. Back-to-school / Halloween 2027: **Jun-Jul**. Evergreen birthday lines never expire.
+
+## 6. VERDICT: supports a cheap test, weakens the "huge" version of the bet
+Payment evidence exists (shops with 770 to 6,800 sales; reviews in the hundreds) but is **snippet-level, undated, and lifetime-only**; no monthly revenue was verifiable. I rank the niches this way.
+1. **Kids' printable escape room series, Christmas first.** Title concept: "Santa's Missing Sleigh Key: Printable Christmas Escape Room for Kids Ages 6-8 and 9-12 (3 Difficulty Levels, Host Guide)". Price **$9.50**, 3-pack bundle **$24**. Platform: Etsy. Why: the snippet evidence shows a newer shop reaching 772 sales and the category has low review counts. Also build 3 non-Christmas evergreen skins ("Dino Dig", "Bakery Heist", "Space Station"). 
+2. **Generic murder mystery party kit (8-12 players), NYE / Christmas skin.** Title: "Murder at the Midnight Masquerade: Printable New Year's Eve Murder Mystery Party, 8-12 Players, Host Guide and Character Cards". Price **$24.99**. Platform: Etsy (+ Payhip copy). Why: top evidence of paid demand (2k-7k-sale shops, 2023-24 entrants at 167-260 sales); heavier build, solved by the solver-check moat.
+3. **"Custom escape room for your child" (name, age, theme, difficulty), delivered in 24 h.** Title: "Custom Printable Escape Room: Personalized Birthday Puzzle Adventure with Your Child's Name, Delivered in 24 Hours". Price **$19-$25**. Platform: Etsy custom listing. Why: only competitor found takes 7-10 days; test with 1 listing. Uncertain: no price/volume evidence at all.
+
+**Cheapest first test (cost about $6-$10, 5-8 owner hours):** after the owner opens the shop (owner-only), list 12 SKUs (6 Christmas/evergreen escape rooms, 3 sizes of murder mystery, 3 sample skins) at $0.20 each = $2.40, plus the custom listing. **Kill metric:** by 2026-12-20 (about 10 weeks), fewer than 3 stranger sales **and** under 200 total listing views per SKU-month, or conversion under 1% on 500+ views, **or** any Etsy AI/IP takedown that cannot be fixed by an edited disclosure. Then pivot to Payhip with Pinterest, or drop. A dated-review check first (20 Etsy searches, three newest review dates per top-10 listing) is free and should come before building.
+
+**What would make this a bad idea:** Etsy suppresses disclosed-AI kits; top shops' sales are lifetime counts from 2015-2020 and new shops get nothing; the AI puzzles are unsolvable or thin (refunds and 3-star reviews); Etsy ads or fee changes erode margin; the whole category is a seasonal 8-week cluster, so one missed window loses a year.
+
+## 7. What would change my mind
+- Upgrade: dated reviews showing 20+ new reviews in 90 days on kits from 2024-25 shops; or an owner screenshot of any escape/mystery shop's monthly Etsy stats over $500.
+- Downgrade: Etsy's creativity page (read by the owner) showing that AI-built puzzle PDFs are labeled or suppressed; or 0 sales and under 100 views after 30 days of 12 live SKUs.
+
+## Sources (retrieved 2026-10-10)
+sellerblog.teacherspayteachers.com/tpt-exclusive-seller/ (fetched); chalkbeat.org/2026/08/03/ai-slop-on-teachers-curriculum-marketplace/ (fetched); teacherspayteachers.com/Product/Operations-with-Fractions-Activities-Escape-Room-Bundle-Virtual-Breakout-Games-5519159 (fetched); help.teacherspayteachers.com/hc/en-us/articles/360044219891-Seller-Fees-and-Payout-Rates (snippet; 403); help.teacherspayteachers.com/.../360042626591 (seller guidelines, snippet); tpt.it.com/fees (unofficial, older Premium rates); etsy.com/legal/creativity/ and /seller-handbook/article/1275449912004 (snippets; 403); help.etsy.com Offsite Ads and etsy.com/legal/advertising (snippets); checkoutpage.com/blog/etsy-fees, gelato.com/blog/etsy-fees, craftybase.com (fee calculators); Etsy shop pages by snippet: InstantEscapeGames, UnlocktheFunGames, WithLoveSally, BlueCoconut, GuiltyGames, MurderByPost, DetectiveDecipher, TypeAMysteries, TheSheriffs; Etsy listings 1621020737, 1742656139, 1887531979, 1556121085; themodernetsysellerpodcast.buzzsprout.com, listifyai.net/blog/etsy-holiday-calendar-2026 (seasonal advice); Teachers College Record note via search summary (TpT seller concentration); promotional pages for "Escape Rooms Empire" (not relied on).
