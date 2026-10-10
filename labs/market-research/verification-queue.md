@@ -29,3 +29,11 @@ Status: ☐ open · ◐ partly verified · ✔ verified · ✖ could not verify 
 16. ☐ RevenueCat State of Subscription Apps 2026 PDF: median revenue, conversion, new-app outcomes.
 17. ☐ Steam/itch.io: primary data on revenue distribution (Gamalytic, itch.io stats) rather than news summaries.
 18. ☐ YouTube, Google, KDP policy primary pages (only needed if we ever consider those channels).
+
+## Added 2026-10-10 (games research gaps)
+19. ☐ CrazyGames revenue share, per-play revenue, and AI policy (primary developer pages; some returned 404).
+20. ☐ Steam revenue by tag for idle / survivors-like / tower defense (VG Insights, Gamalytic, steampageanalyzer niche pages returned 404 or were unreachable).
+21. ☐ Replicate the Idle Pixel Fantasy result (a second documented idle F2P launch) — or find counter-evidence.
+22. ☐ Steam AI-disclosure effect on reach (the ~55% figure comes from a secondhand census).
+23. ☐ Word-list licensing/origin for any word game (B010).
+24. ☐ Roblox: verified revenue for any small-team tycoon/simulator; Roblox cut on passes/products; headless Studio option.

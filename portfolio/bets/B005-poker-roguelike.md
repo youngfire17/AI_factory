@@ -3,7 +3,7 @@ id: B005
 name: Poker/Solitaire hybrid roguelike (e.g. "Poker Garden")
 track: A
 stage: G0
-score: 52
+score: 48
 owner_approval: n/a
 ---
 # B005 — Card hybrid

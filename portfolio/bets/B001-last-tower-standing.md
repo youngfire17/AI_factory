@@ -3,7 +3,7 @@ id: B001
 name: Last Tower Standing
 track: A
 stage: G2
-score: 60
+score: 64
 owner_approval: pending-playtest
 ---
 # B001 — Last Tower Standing (idle tower defense)
@@ -35,3 +35,6 @@ Owner finds it unfun after tuning round 2, or soft-launch metrics < 25% of thres
 
 ## Research update (2026-10-10)
 Score revised 63 → 60. Steam median ≈ $249–$1.7k; itch.io browser games mostly earn tips [claimed]. Genre has money only at the top. Keep as **engine proof**, do not lead the portfolio with it. See `labs/market-research/briefs/2026-10-10-landscape-research.md`.
+
+## Games research update (2026-10-10)
+Becomes **experiment X2** (idle/roguelite TD: genre score 20/30). Needs: a differentiator vs the incumbent single-tower idle title (own mechanic, art, names), audio, polish, telemetry. No small-team revenue evidence found for this genre (Zero Stress King ≈ $160k [claimed] but players fell ~84% in 3 months). Score 60 → 64.
