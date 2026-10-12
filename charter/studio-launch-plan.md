@@ -1,4 +1,7 @@
 # AI Studio: Wave 1 launch plan ("Opening Day")
+
+> **SUPERSEDED 2026-10-12** by `charter/studio-plan-2027.md`. The owner chose not to rush the 2026 holidays: learn through the runway, launch in January 2027, and build the Etsy catalogue toward holiday 2027. Kept for reference (its Etsy tactics and unit economics are still valid).
+
 2026-10-10. Built from the five studio briefs (`labs/market-research/briefs/2026-10-10-studio-*.md`) plus the asset and games research. Mindset: every obstacle gets an answer. Tags: [verified] primary page read · [claimed] secondary · [assumed] ours.
 
 ## The idea in one paragraph

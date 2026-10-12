@@ -1,4 +1,4 @@
-# Strategy (v2, 2026-10-10)
+# Strategy (v2, 2026-10-10; see `charter/studio-plan-2027.md` for the current plan)
 
 Replaces the earlier games-first strategy. Basis: ten research briefs in `labs/market-research/briefs/` (seven asset briefs, the synthesis, the services validation, plus the games and landscape research).
 

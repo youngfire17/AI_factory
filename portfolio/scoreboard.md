@@ -6,13 +6,13 @@ _Maintained by analytics-cfo. Run `node tools/portfolio.mjs status` for live num
 |---|---:|---:|---:|---:|
 | 2026-10-10 | $500.00 | $250 | $250.00 | $0.00 |
 
-## Active bets (v3, 2026-10-10): Wave 1 proposed, awaiting owner go-ahead
+## Active bets (v4, 2026-10-12): runway mode, launch January 2027
 | Bet | Stage | Next action | Owner needed? |
 |---|---|---|---|
-| B002 Party Games Shop (Etsy) | G0 → G2 on approval | Build kit #1; Christmas/NYE SKUs live ~Oct 24 | Yes: open Etsy shop, publish |
-| B012 Niche workbooks | G0 | 20 Etsy searches → pick 3 niches | Yes: ~1 h of searches |
-| B013 Games portfolio (incl. B001 as #1) | G0 | Ship game #1 to itch.io; CrazyGames Basic | Yes: itch.io account, submissions |
-| B011 Trades service (optional cash engine) | G0 | Customer discovery when hours allow | Yes: calls |
+| B013 Games portfolio (Daily Cut, Hexcraft Deck, Mutation Survivors) | G0 | Runway build and owner playtests (awaiting go) | Yes: playtests, itch.io account |
+| App factory (web/extension first) | G0 | Score 20 niches; scaffold monorepo (awaiting go) | later: store accounts |
+| B002/B012 Etsy party games + workbooks | G0 | Catalogue build Feb–Jul 2027; shop opens spring | later |
+| B011 Trades service (optional) | G0 | Only if owner wants parallel cash | Yes: calls |
 
 ## Recommendation
-Approve Wave 1 with a $50 batch cap and the Etsy shop/account steps. Everything else is agent work.
+Approve runway mode and the platform-fee rule. Spend nothing until a title clears its gate.

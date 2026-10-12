@@ -30,3 +30,6 @@ Score 75 → 72. The claimed 33.5k-sales shop was **not found**; competitors exi
 
 ## Wave 1 update (2026-10-10)
 Broadened to a party-games shop; first batch = 12 SKUs + 1 custom listing; see `charter/studio-launch-plan.md` and `labs/market-research/briefs/2026-10-10-studio-party-games.md`. Needs owner exception ($50 batch cap) to spend before G2. Kill: < 3 stranger sales and < 1% conversion on 500+ views by 2026-12-20.
+
+## Timing update 2026-10-12
+No 2026 holiday launch (owner decision). Build catalogue Feb–Jul 2027; list Halloween by mid-Jul and Christmas by Aug 15, 2027.
